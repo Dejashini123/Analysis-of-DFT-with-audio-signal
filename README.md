@@ -92,6 +92,37 @@ input audio: "C:\Users\91944\Downloads\dog-bark-sound-effect-322989 (1).mp3"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULTS
 The audio file has a sampling rate of 44100 Hz and contains 1428558 samples. The waveform shows the variations in amplitude over time, representing the dog bark sound.
 
