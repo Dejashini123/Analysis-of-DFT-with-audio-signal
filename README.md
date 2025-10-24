@@ -70,7 +70,26 @@ print("Filtered audio saved as cleaned_audio.wav")
 <img width="783" height="373" alt="image" src="https://github.com/user-attachments/assets/06b45ada-46dc-4c54-b946-e7bd674c1771" />
 <img width="817" height="382" alt="image" src="https://github.com/user-attachments/assets/b19da130-616b-44f5-9f2b-c38a19375ad9" />
 
+
+
+
+
+
+
+
 input audio: "C:\Users\91944\Downloads\dog-bark-sound-effect-322989 (1).mp3"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
